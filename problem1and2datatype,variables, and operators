@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//first 2 programs
 int main() {
 //Write a c++ program to find size of int, float, double and char in your system
 	cout << "Size of int: " << sizeof(int) << endl;
